@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { Text, Page } from '@vercel/examples-ui';
 import { GetStaticProps } from 'next';
 
